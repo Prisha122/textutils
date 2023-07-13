@@ -8,7 +8,7 @@ import About from './components/about';
     <>   
 
 
-  <Navbar title="TextUtils"/>
+  <Navbar title="Teyyyyyyyyyy"/>
   <Alert>
 
   </Alert>
